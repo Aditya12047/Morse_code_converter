@@ -1,1 +1,2 @@
 # Converts-to-morse-code
+Program asks input from the user and then gives output in the form of morse code.
